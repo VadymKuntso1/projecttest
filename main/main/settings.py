@@ -10,9 +10,9 @@ For the full list of settings and their values, see
 https://docs.djangoproject.com/en/4.2/ref/settings/
 """
 
-#first
+#first321
 
-# second
+# second321
 
 from pathlib import Path
 
